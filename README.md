@@ -1,2 +1,2 @@
 # cubify
-Stylized vulkan based renderer
+An interactive system that transforms 3D meshes into cubic-styled versions, similar to LEGO or Minecraft aesthetics, based on the paper "Cubic Stylization" by Liu and Jacobson. The system will use Vulkan for rendering and include an interactive UI (using Dear ImGui) for real-time parameter adjustment, allowing users to control the stylization effect, lighting, and edge detection parameters dynamically. Example result I'm aiming for can be seen here: https://www.dgp.toronto.edu/projects/cubic-stylization/ 
